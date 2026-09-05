@@ -59,9 +59,10 @@
 
 ```elisp
 (use-package vulkanite-theme
-  :vc (:fetcher github :repo "Meskour/vulkanite-theme")
-  :config
-  (load-theme 'vulkanite-wave t))
+  :vc (:url "https://github.com/Meskour/vulkanite-theme-emacs.git"
+       :vc-backend Git
+       :rev :newest)
+       (load-theme 'vulkanite-wave t))
 ```
 
 ### With `straight.el`
