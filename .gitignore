@@ -1,0 +1,7 @@
+*.elc
+*~
+#*#
+.#*
+flycheck_*
+.DS_Store
+dist/
