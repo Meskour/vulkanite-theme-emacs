@@ -59,7 +59,7 @@
 
 ```elisp
 (use-package vulkanite-theme
-  :vc (:fetcher github :repo "<your-username>/vulkanite-theme")
+  :vc (:fetcher github :repo "Meskour/vulkanite-theme")
   :config
   (load-theme 'vulkanite-wave t))
 ```
@@ -68,7 +68,7 @@
 
 ```elisp
 (straight-use-package
- '(vulkanite-theme :type git :host github :repo "<your-username>/vulkanite-theme"))
+ '(vulkanite-theme :type git :host github :repo "Meskour/vulkanite-theme"))
 
 (load-theme 'vulkanite-wave t)
 ```
@@ -77,7 +77,7 @@
 
 ```elisp
 (use-package vulkanite-theme
-  :ensure (:host github :repo "<your-username>/vulkanite-theme")
+  :ensure (:host github :repo "Meskour/vulkanite-theme")
   :config
   (load-theme 'vulkanite-wave t))
 ```
@@ -87,7 +87,7 @@
 In `~/.config/doom/packages.el`:
 ```elisp
 (package! vulkanite-theme
-  :recipe (:host github :repo "<your-username>/vulkanite-theme"))
+  :recipe (:host github :repo "Meskour/vulkanite-theme"))
 ```
 
 In `~/.config/doom/config.el`:
@@ -99,7 +99,7 @@ In `~/.config/doom/config.el`:
 
 Clone the repository into your preferred directory:
 ```bash
-git clone https://github.com/<your-username>/vulkanite-theme.git ~/.emacs.d/site-lisp/vulkanite-theme
+git clone https://github.com/Meskour/vulkanite-theme-emacs.git ~/.emacs.d/site-lisp/vulkanite-theme
 ```
 
 Add it to your `init.el`:
