@@ -53,7 +53,81 @@
 
 ---
 ## Screenshots:
-![1: omarchy-vulkanite](Screenshots/omarchy-vulkanite.png)
+
+### 1- omarchy-vulkanite
+![omarchy-vulkanite](Screenshots/omarchy-vulkanite.png)
+
+### 2- vulkanite-aether
+![vulkanite-eather](Screenshots/vulkanite-aether.png)
+
+### 3- vulkanite-aura
+![vulkanite-aura](Screenshots/vulkanite-aura.png)
+
+### 4- vulkanite-batou
+![vulkanite-batou](Screenshots/vulkanite-batou.png)
+
+### 5- vulkanite-aura
+![vulkanite-catppuccin](Screenshots/vulkanite-catppuccin.png)
+
+### 6- vulkanite-demon
+![vulkanite-demon](Screenshots/vulkanite-demon.png)
+
+### 7- vulkanite-ethereal
+![vulkanite-ethereal](Screenshots/vulkanite-ethereal.png)
+
+### 8- vulkanite-everforest
+![vulkanite-everforest](Screenshots/vulkanite-everforest.png)
+
+### 9- vulkanite-gruvbox
+![vulkanite-gruvbox](Screenshots/vulkanite-gruvbox.png)
+
+### 10- vulkanite-japan-night
+![vulkanite-japon-night](Screenshots/vulkanite-japon-night.png)
+
+### 11- vulkanite-kanagawa
+![vulkanite-kanagawa](Screenshots/vulkanite-kanagawa.png)
+
+### 12- vulkanite-vulkanite-last-horizon
+![vulkanite-last-horizon](Screenshots/vulkanite-last-horizon.png)
+
+### 14- vulkanite-matrix
+![vulkanite-matrix](Screenshots/vulkanite-matrix.png)
+
+### 15- vulkanite-miasma
+![vulkanite-miasma](Screenshots/vulkanite-miasma.png)
+
+### 16- vulkanite-one-dark-pro
+![vulkanite-one-dark-pro](Screenshots/vulkanite-one-dark-pro.png)
+
+### 17- vulkanite-osaka-jade
+![vulkanite-osaka-jade](Screenshots/vulkanite-osaka-jade.png)
+
+### 18- vulkanite-retro-82
+![vulkanite-retro-82](Screenshots/vulkanite-retro-82.png)
+
+### 19- vulkanite-rose-pine-dark
+![vulkanite-rose-pine-dark](Screenshots/vulkanite-rose-pine-dark.png)
+
+### 20- vulkanite-solitude
+![vulkanite-solitude](Screenshots/vulkanite-solitude.png)
+
+### 21- vulkanite-terminus
+![vulkanite-terminus](Screenshots/vulkanite-terminus.png)
+
+### 22- vulkanite-tokyo-night
+![vulkanite-tokyo-night](Screenshots/vulkanite-tokyo-night.png)
+
+### 23- vulkanite-tycho
+![vulkanite-tycho](Screenshots/vulkanite-tycho.png)
+
+### 24- vulkanite-ventablack
+![vulkanite-ventablack](Screenshots/vulkanite-ventablack.png)
+
+### 25- vulkanite-vesper
+![vulkanite-veesper](Screenshots/vulkanite-vesper.png)
+
+### 26- vulkanite-wave
+![vulkanite-wave](Screenshots/omarchy-wave.png)
 
 ## Installation
 
