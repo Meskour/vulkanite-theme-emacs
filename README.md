@@ -52,6 +52,8 @@
 | `omarchy-vulkanite` | Omarchy Vulkanite | Direct alias loading the signature Omarchy theme |
 
 ---
+## Screenshots:
+![1: omarchy-vulkanite](Screenshots/omarchy-vulkanite.png)
 
 ## Installation
 
