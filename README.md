@@ -66,7 +66,7 @@
 ### 4- vulkanite-batou
 ![vulkanite-batou](Screenshots/vulkanite-batou.png)
 
-### 5- vulkanite-aura
+### 5- vulkanite-catppuccin
 ![vulkanite-catppuccin](Screenshots/vulkanite-catppuccin.png)
 
 ### 6- vulkanite-demon
@@ -127,7 +127,7 @@
 ![vulkanite-veesper](Screenshots/vulkanite-vesper.png)
 
 ### 26- vulkanite-wave
-![vulkanite-wave](Screenshots/omarchy-wave.png)
+![vulkanite-wave](Screenshots/vulkanite-wave.png)
 
 ## Installation
 
